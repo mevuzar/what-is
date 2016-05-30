@@ -1,0 +1,20 @@
+* WhatIs intends to convert sentences to meanings which are describable by a computer(machine illustrative).
+  The definition of success for that matter would be that personA writes something which a computer can read, convert then illustrate to personB.
+  The conversion should include the tagging of this illustration as deterministic or non deterministic.
+  The conversion is done by dismantling the phrase to its logical components - those are built from atomic entities(such as You(which extends Someone and Person), Your(which holds Posession and extends You with AbstractPerson))
+  These components are called "associations"
+
+* Once I broke the phrase down and converted it to meanings,
+  WhatIs is supposed to be able to convert the same phrase and I'm supposed to be able to assemble a
+  new phrase out of the same meanings(or part of them) using meta_lang
+
+* In order to achieve the above capacities, we analyze phrases; each of which has a sample and a correlating Playground.scala console app.
+  Every such phrase contributes to WhatIs' knowledge of how does my brain decifer phrases into meanings by enrihcing GENERAL RULES per each language.
+
+* Sometimes (e.g. "poetic phrase" sample), the sentence is not complete but for humans it is reduced to an abstract meaning: a description of an event.
+
+* The lowest common denominator of associations which makes a meaning is the abstract trait: Meaning
+
+
+
+Q: This event is a kind of a scene. are all events scenes?

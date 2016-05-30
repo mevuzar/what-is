@@ -1,0 +1,3 @@
+Different Languages:
+* Adding words in non languages will be phonetically with a
+  translation to the origin language's characters in the word itself
