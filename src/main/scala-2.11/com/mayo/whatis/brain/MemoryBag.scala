@@ -1,7 +1,7 @@
 package com.mayo.whatis.brain
 
-import com.mayo.whatis.mean.Meaning
 import com.mayo.whatis.lang.Word
+import com.mayo.whatis.mean.Meaning
 
 import scala.collection.immutable.Seq
 import scala.collection.mutable
