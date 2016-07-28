@@ -8,7 +8,7 @@ import com.mayo.whatis.mean.Feature
  */
 trait JavaCollectionRoot extends Module{
    val use: scala.collection.immutable.List[String]
-   val features: scala.collection.immutable.List[Feature]
+   def features: scala.collection.immutable.List[Feature]
    val description: String
    val codeSample: String
  }
