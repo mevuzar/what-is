@@ -1,2 +1,0 @@
-jvm_jre_jdk: http://www.javatpoint.com/difference-between-jdk-jre-and-jvm
-set: https://en.wikipedia.org/wiki/Set_(abstract_data_type)  (EN,IL,FR)
